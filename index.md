@@ -7,5 +7,5 @@ South Dakota School of Mines and Technology, December 2002
 JPL Seminar, 2019
 ### Resume
 #### [Shortform](https://nfchamberlain.github.io/Files/NFC_shortform.02.11.23.pdf)
-#### [Longform](https://nfchamberlain.github.io/Files/NFC_longform_.02.11.23.pdf)
+#### [Longform](https://nfchamberlain.github.io/Files/NFC_longform.02.11.23.pdf)
 
